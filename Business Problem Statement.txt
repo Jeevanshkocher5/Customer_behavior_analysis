@@ -1,0 +1,24 @@
+A prominent retail organization seeks to gain deeper insights into customer purchasing behavior to enhance overall sales performance, satisfaction, and long-term loyalty. The management team has observed noticeable shifts in buying trends across various demographics, product lines, and sales platforms (online and offline).
+
+They aim to identify the key factors influencing customer decisions — including discounts, product reviews, seasonal trends, and payment preferences — to better understand what drives repeat purchases and engagement.
+
+You have been assigned to analyze the company’s consumer data to address the central question:
+
+“How can the company utilize customer shopping data to uncover patterns, strengthen engagement, and refine marketing and product strategies?”
+
+Project Deliverables
+
+Data Preparation & Modeling (Python):
+Clean, preprocess, and structure the raw dataset for analysis by performing data wrangling, feature creation, and integration.
+
+Data Analysis (SQL):
+Design structured database tables to simulate business transactions and execute analytical SQL queries to uncover insights related to customer segmentation, loyalty behavior, and purchase drivers.
+
+Visualization & Insights (Power BI):
+Develop an interactive Power BI dashboard to visualize trends, highlight customer patterns, and enable stakeholders to explore insights through an intuitive interface.
+
+Report & Presentation:
+Compile a comprehensive project report summarizing findings, analytical outcomes, and actionable business recommendations. Create a presentation that effectively communicates insights and strategies to business decision-makers.
+
+GitHub Repository:
+Maintain a well-organized repository containing all project assets — Python scripts, SQL codes, Power BI dashboards, and documentation — ensuring transparency and reproducibility of the analysis.
