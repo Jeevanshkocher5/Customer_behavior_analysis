@@ -23,8 +23,8 @@ Missing Data: 37 missing values in Review Rating column (handled during cleaning
 
 🧰 Tools & Technologies
 Tool	Purpose
-Python (pandas, numpy, matplotlib, seaborn)	Data loading, cleaning, and EDA
-MySQL / PostgreSQL	Running SQL queries and business analysis
+Python (pandas, numpy, matplotlib)	Data loading, cleaning, and EDA
+MySQL 	Running SQL queries and business analysis
 Power BI	Dashboard visualization and storytelling
 Gamma App	Final presentation design
 GitHub	Version control and documentation
